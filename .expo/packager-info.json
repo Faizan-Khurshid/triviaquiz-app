@@ -1,0 +1,9 @@
+{
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://9g-hcm.anonymous.triviaquizapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.9g-hcm.anonymous.triviaquizapp.exp.direct",
+  "ngrokPid": 8528,
+  "devToolsPort": 19002,
+  "packagerPort": null,
+  "packagerPid": null
+}
